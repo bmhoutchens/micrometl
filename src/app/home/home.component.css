@@ -1,0 +1,27 @@
+#main{
+    color: black;
+    font-size: 125%;
+}
+
+.div{
+    background-color: rgba(208, 238, 252, 0.671);
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: -50%;
+    padding-left: 2em;
+    padding-right: 1em;
+    padding-bottom: .5em;
+}
+
+#title{
+    text-align: center;
+    transform: translateY(35%);
+    font-weight: bolder;
+    /* transform: translate(-450%, 80%);
+    background-color: rgba(208, 238, 252, 0.671);
+    margin-left: 90%; */
+}
+
+/* #titleContainer{
+    
+} */

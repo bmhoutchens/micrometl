@@ -1,0 +1,28 @@
+p :hover{
+    cursor: pointer;
+    display: inline-block;
+}
+
+.nav{
+    display: inline-block;
+    padding-left: 1em;
+}
+
+#img{
+    position: absolute;
+}
+
+#links{
+    font-family: 'Righteous', cursive;
+    text-align: right;
+}
+
+nav{
+    transform: translate(-.5%, -12%);
+    margin-right: -.8em;
+    padding-left: .25em;
+    padding-right: 1em; 
+    font-weight: bold;
+    font-size: 125%;
+    background-color: rgba(208, 238, 252, 0.904)
+}
