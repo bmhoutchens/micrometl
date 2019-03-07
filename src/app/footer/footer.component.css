@@ -1,0 +1,36 @@
+#footer{
+    position: relative;
+    bottom: -.9vw;
+    background-color: rgba(250, 195, 160, 0.904);
+    width: 100vw;
+    left: -.45vw;
+}
+
+.fab{
+    font-size: 200%;
+}
+
+#icons{
+    list-style: none;
+}
+
+.fa-facebook-square{
+    color: #38569E;
+}
+
+.fa-youtube{
+    color: #D12222;
+}
+
+.fa-twitter-square{
+    color: #1C9FEF;
+}
+
+.fa-linkedin{
+    color: #0274B3;
+}
+
+.iconLi{
+    display: inline-block;
+    margin-right: 1em;
+}
